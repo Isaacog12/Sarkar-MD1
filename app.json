@@ -15,7 +15,9 @@
 
 ",
       "required": true,
-      "value": ""
+      "value": "Sarkarmd$eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiT0NtZFFZTVBHSEFSRzJDUHpOUjN6VlhSblRtbzBJdXVvSW9Yck01Vnhucz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiaDBOUE9YaktIUENNbXp6VkNtbTltWFRHbjBCMGRqb3ZleEtDUXdGcy9VWT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIwQVp5aGR5TEc2UElMajJXNHF3RUJFQXAwbXp0OWFYMElnNm9uZ3M1REVjPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJBM3RkVFpsUDNBZGR5YlFmL2J4OVZlaHYrdzFLeGplU2hybytZbWpobHdBPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ik1GUGt1RHhzVTRBZHMxNTZNcU1HYnRRa3RSQ2M3bm51OUVoNjNzWjNCbDA9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlQzcmFlcW11VW9FcndxZzVqQ2RwOUdJeXkrNUk5dHVia2pRUGVUWHl3aVk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiUUNSSlVTcVZHTi9BQ2I2c3YzWHI4dzRpb0VMdHdIdHVkOEJnLzg3QUNWTT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiM2ZWUy9xY3RaUHk5WXBvN1FkRWhBMW1iMEk2UngvRENKMlo0SXhMM0x6Zz0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IitSUGZka1lZeWdISktmTHFVSXlPVVlWRkpLcTBuRk9ESFI2eWhjcFRZeThtb0JUbndJakhaVXd4WUozRTZ3Z0Y4U0YzL1RtRGJscEhwOE1kVFZ1d2pnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NTksImFkdlNlY3JldEtleSI6ImRYbmdaMkpsVTFhWWlOeXVVK2tDWTU0bXQ3VFRTSHV1bzRhSkxndkV2ZHc9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJyZWdpc3RlcmVkIjp0cnVlLCJwYWlyaW5nQ29kZSI6IjEyM0xPVFVTIiwibWUiOnsiaWQiOiIyMzQ3MDMyOTgzNDMzOjdAcy53aGF0c2FwcC5uZXQiLCJsaWQiOiI5MTU2OTA3MTkwNjg3MTo3QGxpZCJ9LCJhY2NvdW50Ijp7ImRldGFpbHMiOiJDTjJWN05FRkVJMlpyY0lHR0FJZ0FDZ0EiLCJhY2NvdW50U2lnbmF0dXJlS2V5IjoiekxrUEJuSlhJWkJyYmFpTlhBYnUzZlhlWDhMeUtEUmRHQ3lESGFMNkZTOD0iLCJhY2NvdW50U2lnbmF0dXJlIjoiZkV3OEY1TVNGYnFNM3NSM1JTR3pUdHJISFFwdnhRVStONHlZeVVQS1AxVUg5cnRTYU5oQlI3aCtyWjlmWjQzL04vMDBkR2pvUlY3eThXZStkS2xXQnc9PSIsImRldmljZVNpZ25hdHVyZSI6IlpjSHlzMDJiZUQrR1RMckVPR2w5Ukhia3JuSHVBZHdWbmJUT2Zabkx0c0ZQWndkQzRtdDhrVWp6VnloQXFCc3dHdzI3QUd2MDFheitqTzloVGNVTGhBPT0ifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiMjM0NzAzMjk4MzQzMzo3QHMud2hhdHNhcHAubmV0IiwiZGV2aWNlSWQiOjB9LCJpZGVudGlmaWVyS2V5Ijp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiQmN5NUR3WnlWeUdRYTIyb2pWd0c3dDMxM2wvQzhpZzBYUmdzZ3gyaStoVXYifX1dLCJwbGF0Zm9ybSI6ImFuZHJvaWQiLCJyb3V0aW5nSW5mbyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkNBMElCUT09In0sImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTc0OTc2NTI2NSwibGFzdFByb3BIYXNoIjoiMlAxWWhmIiwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFOUVEifQ==
+
+"
     },
     "MODE": {
       "description": "Enter 'true' for public mode, 'no' for private mode",
@@ -25,27 +27,27 @@
     "OWNER_NUMBER": {
       "description": "Enter the owner's phone number with country code (e.g., +1234567890)",
       "required": true,
-      "value": "+923000000000"
+      "value": "+2347032983433"
     },
     "OWNER_NAME": {
       "description": "Enter the owner's name",
       "required": true,
-      "value": "Bandaheali"
+      "value": "Tife"
     },
     "AUTO_STATUS_SEEN": {
       "description": "Enter 'true' for autoview status, 'no' to disable",
       "required": false,
-      "value": "true"
+      "value": "no"
     },
     "AUTO_READ": {
       "description": "Enter 'true' for autoread messages, 'no' to disable",
       "required": false,
-      "value": "true"
+      "value": "no"
     },
     "AUTO_TYPING": {
       "description": "Enter 'true' for auto typing, 'no' to disable",
       "required": false,
-      "value": "true"
+      "value": "no"
     },
     "AUTO_RECORDING": {
       "description": "Enter 'true' to show recording audio, 'no' to disable",
